@@ -28,7 +28,7 @@ public class AlayApp extends JFrame implements ActionListener {
 
     public AlayApp() {
         setTitle("WILL U BE MY GIRLFRIEND?");
-        setSize(500, 520);
+        setSize(500, 500);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         init();
         setVisible(true);
