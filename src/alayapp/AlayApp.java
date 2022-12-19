@@ -16,6 +16,8 @@ import javax.swing.JPanel;
 /**
  *
  * @author Andhika Prameswara <prameswaara@gmail.com>
+ *
+ * Andhikap
  */
 public class AlayApp extends JFrame implements ActionListener {
 
